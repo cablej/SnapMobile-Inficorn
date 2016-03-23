@@ -7,7 +7,7 @@ Created for the SnapMobile [magical code challenge](https://github.com/SnapMobil
 
 Features:
 
-- View an infinitely-loading grid of unicorn GIFs
+- View an infinitely-loading grid of unicorn GIFs, which automatically loads more GIFs when the user reaches the bottom of the page.
 - Tap a GIF to enlarge, and tap again to dismiss
 - Search Giphy for any GIFs
 - View trending GIFs on Giphy
